@@ -96,3 +96,10 @@ const posts = [
         "created": "2021-12-11"
     }
 ];
+
+
+const container = document.getElementById('container');
+
+for (let i = 0; i < posts.length; i++) {
+
+}
